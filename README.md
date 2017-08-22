@@ -8,4 +8,4 @@ Android example
 <img src="https://github.com/Muhammadsafarali/FragmentTabHost/blob/master/gif.gif" width="250">
 
 
-[id]:https://stackoverflow.com/questions/20586619/android-viewpager-with-bottom-dots/27918605
+[id]:https://stackoverflow.com/questions/17227855/tabhost-with-fragments-and-fragmentactivity
